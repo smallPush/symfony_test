@@ -1,4 +1,6 @@
 {
+  "name": "app/my-project",
+  "description": "A Symfony project for testing",
   "type": "project",
   "license": "proprietary",
   "minimum-stability": "stable",
